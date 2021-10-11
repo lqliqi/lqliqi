@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### 大家好，目前是一名普通的前端开发，关注：Vue,TS,JS,Golang开发，致力于成为一名合格的全栈开发工程师！
 <!--
 **lqliqi/lqliqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=lqliqi&show_icons=true&theme=algolia&repo=vue3-vite-element-plus-ts-admin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lqliqi&show_icons=true&theme=algolia&repo=vue3-vite-element-plus-ts-admin)](https://github.com/anuraghazra/github-readme-stats)
