@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### 大家好，我是李菜菜，目前在北京做前端开发，关注：Vue,TS,JS,Golang开发，致力于成为一名合格的全栈开发工程师！
+### 如果对您有帮助，欢迎 star 或者 followers ,ღ( ´･ᴗ･` )比心 ！
 <!--
 **lqliqi/lqliqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
